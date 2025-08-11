@@ -4,4 +4,4 @@ Auction Area on Idle due to
 Song Entertainment Viewing Section for
 Rating 
 After Song Entertainment Rating 
-Auctin will Continue
+Auction will Continue
